@@ -50,6 +50,12 @@ img {
   color: black;
 }
 
+nav a:hover,
+nav a:focus {
+background-color:##fffce2;
+color: black;
+}
+
 /* Create two unequal columns that floats next to each other */
 /* Left column */
 .leftcolumn {   
