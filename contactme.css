@@ -1,3 +1,25 @@
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color:rgb(168, 201, 255);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #fffce2;
+  color: black;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; /* Full width */
